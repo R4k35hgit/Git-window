@@ -1,4 +1,7 @@
 hi this is rakesh kalagiri.
 
 sql code
+Html code
+
+<!DOCTYPE html>
 
